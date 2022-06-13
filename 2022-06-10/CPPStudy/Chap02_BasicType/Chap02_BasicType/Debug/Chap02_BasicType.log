@@ -1,0 +1,5 @@
+﻿  Chap02_BasicType.cpp
+C:\c++\2022-06-10\CPPStudy\Chap02_BasicType\Chap02_BasicType\Chap02_BasicType.cpp(45,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\c++\2022-06-10\CPPStudy\Chap02_BasicType\Chap02_BasicType\Chap02_BasicType.cpp(65,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\c++\2022-06-10\CPPStudy\Chap02_BasicType\Chap02_BasicType\Chap02_BasicType.cpp(82,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Chap02_BasicType.vcxproj -> C:\c++\2022-06-10\CPPStudy\Chap02_BasicType\Debug\Chap02_BasicType.exe
