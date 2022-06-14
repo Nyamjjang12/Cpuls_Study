@@ -1,0 +1,6 @@
+﻿  Chap01_Variable.cpp
+C:\c++\2022-06-10\CPPStudy\Chap01_Variable\Chap01_Variable\Chap01_Variable.cpp(105,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\c++\2022-06-10\CPPStudy\Chap01_Variable\Chap01_Variable\Chap01_Variable.cpp(97,6): warning C4101: 'thisIsMyFirstVariable' :참조되지 않은 지역 변수입니다.
+C:\c++\2022-06-10\CPPStudy\Chap01_Variable\Chap01_Variable\Chap01_Variable.cpp(118,6): warning C4101: '_ThisIsMySecondVariable' :참조되지 않은 지역 변수입니다.
+C:\c++\2022-06-10\CPPStudy\Chap01_Variable\Chap01_Variable\Chap01_Variable.cpp(111,6): warning C4101: '스코어' :참조되지 않은 지역 변수입니다.
+  Chap01_Variable.vcxproj -> C:\c++\2022-06-10\CPPStudy\Chap01_Variable\Debug\Chap01_Variable.exe
