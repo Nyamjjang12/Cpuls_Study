@@ -1,0 +1,6 @@
+﻿  Chap09_Sturct.cpp
+C:\c++\2022-06-22\Chap09_Sturct\Chap09_Sturct\Chap09_Sturct.cpp(131,6): warning C4101: 'history' :참조되지 않은 지역 변수입니다.
+C:\c++\2022-06-22\Chap09_Sturct\Chap09_Sturct\Chap09_Sturct.cpp(129,6): warning C4101: 'korean' :참조되지 않은 지역 변수입니다.
+C:\c++\2022-06-22\Chap09_Sturct\Chap09_Sturct\Chap09_Sturct.cpp(130,6): warning C4101: 'english' :참조되지 않은 지역 변수입니다.
+C:\c++\2022-06-22\Chap09_Sturct\Chap09_Sturct\Chap09_Sturct.cpp(128,6): warning C4101: 'math' :참조되지 않은 지역 변수입니다.
+  Chap09_Sturct.vcxproj -> C:\c++\2022-06-22\Chap09_Sturct\Debug\Chap09_Sturct.exe
